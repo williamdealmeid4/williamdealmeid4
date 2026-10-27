@@ -4,6 +4,7 @@ Estudante de Sistemas de Informação na UNEMAT e estagiário de TI na FAEPEN. D
 
 ## Projetos em destaque
 
+- [illke](https://github.com/williamdealmeid4/illke) — catálogo Pokémon, builds e comunidade.
 - [SGA Rust + MySQL](https://github.com/williamdealmeid4/sga-rust-mysql) — gestão acadêmica com matrículas, notas, auditoria e financeiro.
 - [Anamnese Visual](https://github.com/williamdealmeid4/anamnese-visual) — PWA de anamnese e termo de responsabilidade para estúdios.
 - [Vera Costuras](https://github.com/williamdealmeid4/vera-costuras) — sistema para uma loja de costura.
