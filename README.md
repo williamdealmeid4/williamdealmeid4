@@ -9,6 +9,9 @@ Estudante de Sistemas de Informação na UNEMAT e estagiário de TI na FAEPEN. D
 - [Anamnese Visual](https://github.com/williamdealmeid4/anamnese-visual) — PWA de anamnese e termo de responsabilidade para estúdios.
 - [Vera Costuras](https://github.com/williamdealmeid4/vera-costuras) — sistema para uma loja de costura.
 
+- [Estoque Prático](https://github.com/williamdealmeid4/estoque-pratico) — produtos, movimentações e histórico com PostgreSQL.
+- [Conta Clara](https://github.com/williamdealmeid4/conta-clara) — receitas, despesas e resumo mensal com PostgreSQL.
+
 ## Tecnologias
 
 Rust · MySQL · TypeScript · JavaScript · PHP · Go · Python
